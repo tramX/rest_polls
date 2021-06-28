@@ -1,0 +1,6 @@
+Для запуска приложение необходимо установить зависимости из requirements.txt
+pip install -r requirements.txt
+
+Выполнить команду запуска
+
+python manage.py runserver
